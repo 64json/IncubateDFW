@@ -40,7 +40,7 @@
     }
   },
   "date": "August 6-7",
-  "venue": "BrokenBox",
+  "venue": "Barista Ventures",
   "btn_sponsor": "Sponsor Us",
   "btn_register": [
     "Register",
@@ -127,7 +127,7 @@
         "$value": [
           {
             "question": "When/Where?",
-            "answer": "IncubateDFW will take place on August 6-7 at the Dallas Fort Work."
+            "answer": "IncubateDFW will take place on August 6-7 at the Barista Ventures. It is recommended to get there via DART!"
           },
           {
             "question": "Is there transportation or travel reimbursement?",
