@@ -199,37 +199,7 @@
           {
             "time": "9AM",
             "event": "Check In",
-            "place": "Lobby"
-          },
-          {
-            "time": "10AM",
-            "event": "Welcome + Keynotes",
-            "place": "Cafeteria"
-          },
-          {
-            "time": "11AM",
-            "event": "Demos",
-            "place": "Cafeteria"
-          },
-          {
-            "time": "12PM",
-            "event": "Hacking Begins",
-            "place": "Band Hall"
-          },
-          {
-            "time": "1PM",
-            "event": "Lunch",
-            "place": "Lobby"
-          },
-          {
-            "time": "2PM",
-            "event": "Workshops",
-            "place": "Band Hall"
-          },
-          {
-            "time": "7PM",
-            "event": "Dinner",
-            "place": "Lobby"
+            "place": "11th floor"
           }
         ]
       }
@@ -240,44 +210,9 @@
         "$type": "array_rows",
         "$value": [
           {
-            "time": "12AM",
-            "event": "Midnight Snack",
-            "place": "Band Hall"
-          },
-          {
-            "time": "3AM",
-            "event": "HypeFest",
-            "place": "Band Hall"
-          },
-          {
-            "time": "5AM",
-            "event": "Surprise",
-            "place": "Lobby"
-          },
-          {
-            "time": "7AM",
-            "event": "Breakfast",
-            "place": "Lobby"
-          },
-          {
-            "time": "12PM",
-            "event": "Lunch & Hacking Ends",
-            "place": "Lobby"
-          },
-          {
-            "time": "1PM",
-            "event": "Hack Demo Fair",
-            "place": "Lobby"
-          },
-          {
-            "time": "2PM",
-            "event": "Closing Ceremony",
-            "place": "Auditorium"
-          },
-          {
             "time": "3PM",
-            "event": "Hackathon Ends",
-            "place": "Auditorium"
+            "event": "Event Ends",
+            "place": "11th floor"
           }
         ]
       }
@@ -305,7 +240,28 @@
     },
     "silver": {
       "$type": "array_cols",
-      "$value": []
+      "$value": [
+        {
+          "link": {
+            "$type": "link",
+            "$value": "http://www.stickergiant.com/"
+          },
+          "image": {
+            "$type": "image",
+            "$value": "sponsors/stickergiant.png"
+          }
+        },
+        {
+          "link": {
+            "$type": "link",
+            "$value": "https://www.clarifai.com/"
+          },
+          "image": {
+            "$type": "image",
+            "$value": "sponsors/clarifai.png"
+          }
+        }
+      ]
     },
     "bronze": {
       "$type": "array_cols",
