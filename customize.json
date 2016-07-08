@@ -233,7 +233,7 @@
           },
           "image": {
             "$type": "image",
-            "$value": "sponsors/2ndGen.png"
+            "$value": "sponsors/2ndGen.jpg"
           }
         }
       ]
@@ -259,6 +259,26 @@
           "image": {
             "$type": "image",
             "$value": "sponsors/clarifai.png"
+          }
+        },
+        {
+          "link": {
+            "$type": "link",
+            "$value": "https://www.theironyard.com/"
+          },
+          "image": {
+            "$type": "image",
+            "$value": "sponsors/theironyard.png"
+          }
+        },
+        {
+          "link": {
+            "$type": "link",
+            "$value": "http://www.solerainc.com/"
+          },
+          "image": {
+            "$type": "image",
+            "$value": "sponsors/solera.png"
           }
         }
       ]
