@@ -274,11 +274,41 @@
         {
           "link": {
             "$type": "link",
-            "$value": "http://www.solerainc.com/"
+            "$value": "https://r3pi.io/"
           },
           "image": {
             "$type": "image",
             "$value": "sponsors/solera.png"
+          }
+        },
+        {
+          "link": {
+            "$type": "link",
+            "$value": "https://devmountain.com/"
+          },
+          "image": {
+            "$type": "image",
+            "$value": "sponsors/devmtn.png"
+          }
+        },
+        {
+          "link": {
+            "$type": "link",
+            "$value": "http://www.bobalatte.com/"
+          },
+          "image": {
+            "$type": "image",
+            "$value": "sponsors/bobalatte.png"
+          }
+        },
+        {
+          "link": {
+            "$type": "link",
+            "$value": "http://barista-v.com/"
+          },
+          "image": {
+            "$type": "image",
+            "$value": "sponsors/baristav.png"
           }
         }
       ]
