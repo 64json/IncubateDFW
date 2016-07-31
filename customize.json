@@ -310,6 +310,16 @@
             "$type": "image",
             "$value": "sponsors/baristav.png"
           }
+        },
+        {
+          "link": {
+            "$type": "link",
+            "$value": "http://www.dallasfortwork.com/"
+          },
+          "image": {
+            "$type": "image",
+            "$value": "sponsors/fortwork.png"
+          }
         }
       ]
     },
