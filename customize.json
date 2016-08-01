@@ -198,8 +198,47 @@
         "$value": [
           {
             "time": "9AM",
-            "event": "Check In",
-            "place": "11th floor"
+            "event": "Checkin"
+          },
+          {
+            "time": "10AM",
+            "event": "Team Creation + Meet Solera, Ironyard and Dev Mountain at rep tables"
+          },
+          {
+            "time": "11AM",
+            "event": "Welcome + Keynotes"
+          },
+          {
+            "time": "12PM",
+            "event": "Hacking Begins"
+          },
+          {
+            "time": "1PM",
+            "event": "Lunch"
+          },
+          {
+            "time": "4PM",
+            "event": "Workshop by Solera"
+          },
+          {
+            "time": "5PM",
+            "event": "Workshop Space for Dev Mountain"
+          },
+          {
+            "time": "6PM",
+            "event": "Workshop by IronYard"
+          },
+          {
+            "time": "7PM",
+            "event": "Dinner"
+          },
+          {
+            "time": "8PM",
+            "event": "Workshop by Chirag on Pitching"
+          },
+          {
+            "time": "9PM",
+            "event": "Workshop by Edan Meyer"
           }
         ]
       }
@@ -210,9 +249,44 @@
         "$type": "array_rows",
         "$value": [
           {
+            "time": "12AM",
+            "event": "Midnight Snack"
+          },
+          {
+            "time": "3AM",
+            "event": "Hype Fest"
+          },
+          {
+            "time": "5AM",
+            "event": "Early Morning Activity"
+          },
+          {
+            "time": "7AM",
+            "event": "Activity - hackdfw had yoga"
+          },
+          {
+            "time": "8AM",
+            "event": "Breakfast"
+          },
+          {
+            "time": "12PM",
+            "event": "Hacking Ends - submissions to Devpost"
+          },
+          {
+            "time": "1PM",
+            "event": "Demo - first round of judging"
+          },
+          {
+            "time": "2PM",
+            "event": "Final Presentations"
+          },
+          {
+            "time": "2:30PM",
+            "event": "Final Round of Judging"
+          },
+          {
             "time": "3PM",
-            "event": "Event Ends",
-            "place": "11th floor"
+            "event": "Lunch and Good Bye"
           }
         ]
       }
@@ -233,7 +307,17 @@
           },
           "image": {
             "$type": "image",
-            "$value": "sponsors/2ndGen.jpg"
+            "$value": "sponsors/2ndGen.png"
+          }
+        },
+        {
+          "link": {
+            "$type": "link",
+            "$value": "https://r3pi.io/"
+          },
+          "image": {
+            "$type": "image",
+            "$value": "sponsors/solera.png"
           }
         }
       ]
@@ -274,16 +358,6 @@
         {
           "link": {
             "$type": "link",
-            "$value": "https://r3pi.io/"
-          },
-          "image": {
-            "$type": "image",
-            "$value": "sponsors/solera.png"
-          }
-        },
-        {
-          "link": {
-            "$type": "link",
             "$value": "https://devmountain.com/"
           },
           "image": {
@@ -319,6 +393,16 @@
           "image": {
             "$type": "image",
             "$value": "sponsors/fortwork.png"
+          }
+        },
+        {
+          "link": {
+            "$type": "link",
+            "$value": "http://monkeykingnoodlecompany.com/"
+          },
+          "image": {
+            "$type": "image",
+            "$value": "sponsors/monkeykingnoodle.png"
           }
         }
       ]
