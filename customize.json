@@ -404,6 +404,16 @@
             "$type": "image",
             "$value": "sponsors/monkeykingnoodle.png"
           }
+        },
+        {
+          "link": {
+            "$type": "link",
+            "$value": "https://www.monsterenergy.com/"
+          },
+          "image": {
+            "$type": "image",
+            "$value": "sponsors/monsterenergy.png"
+          }
         }
       ]
     },
